@@ -1,1 +1,1 @@
-"# restTemplate" 
+Playing around with Jira REST api, using Spring's RestTemplate for get and post with Basic authentication
