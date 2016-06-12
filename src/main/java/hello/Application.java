@@ -7,9 +7,9 @@ import java.util.Base64;
 
 public class Application {
 
-    private static final String username = "somaiah@gmail.com";
-    private static final String password = "telesto1";
-    private static final String jiraBaseURL = "https://somaiah1.atlassian.net/rest/api/2/";
+    private static final String username = "user@domain.com";
+    private static final String password = "password";
+    private static final String jiraBaseURL = "https://jira.domain.com/rest/api/2/";
     private RestTemplate restTemplate;
     private HttpHeaders httpHeaders;
 
